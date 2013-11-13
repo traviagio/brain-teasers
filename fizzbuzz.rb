@@ -5,7 +5,7 @@ counter += 1
 
 break if counter >= 100
 
-if counter % 5 == 0 and counter % 3 == 0
+if counter % 15 == 0 
 	puts "FizzBuzz"
 
 elsif counter % 3 == 0
